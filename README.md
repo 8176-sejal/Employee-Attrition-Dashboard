@@ -37,6 +37,11 @@ To enable stakeholders to:
 * Interactive filters for dynamic exploration
 
 ---
+## 📸 Dashboard Preview
+![Dashboard](Dashboard.png)
+
+## 🎥 Interactive Demo
+![Demo](Demo.mp4)
 
 ## 🔗 Tableau Dashboard
 
